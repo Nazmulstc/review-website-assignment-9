@@ -1,0 +1,11 @@
+.card-style {
+  height: 380px;
+}
+.card-style:hover {
+  background-color: whitesmoke;
+}
+.my-style a {
+  text-decoration: none;
+  font-weight: bold;
+  color: white;
+}

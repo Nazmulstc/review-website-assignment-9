@@ -1,0 +1,10 @@
+.my-btn a {
+  text-decoration: none;
+  color: white;
+}
+.my-btn {
+  transition: 0.3s;
+}
+.my-btn:hover {
+  background-color: rgb(77, 76, 76);
+}

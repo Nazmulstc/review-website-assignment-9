@@ -1,0 +1,23 @@
+.MenuBar-container {
+  position: fixed;
+  background-color: blue;
+  width: 100%;
+}
+.logo-style {
+  text-decoration: none;
+  color: white;
+}
+.logo-style:hover {
+  color: lightgray;
+}
+.items {
+  text-decoration: none;
+  margin-right: 30px;
+  font-size: 18px;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+.items:hover {
+  color: rgb(221, 5, 5);
+}
